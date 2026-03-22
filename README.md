@@ -8,7 +8,6 @@ Backend systems · Real-time platforms · Cloud infrastructure
 
 [![Email](https://img.shields.io/badge/shrivasporas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shrivasporas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poras-shrivas-776037195/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/poras-oss)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/shrivasporas)
 
 </div>
